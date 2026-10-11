@@ -1,7 +1,7 @@
 {
-  "versionName": "1.0.1",
-  "versionCode": 3,
-  "apkUrl": "https://github.com/dahamsterbr/huisgeest-android-releases/releases/download/v1.0.1/huisgeest-android.apk",
-  "tag": "v1.0.1",
-  "notes": "Koppelen verbeterd: duidelijke foutmeldingen, LAN-adres"
+  "versionName": "1.0.2",
+  "versionCode": 4,
+  "apkUrl": "https://github.com/dahamsterbr/huisgeest-android-releases/releases/download/v1.0.2/huisgeest-android.apk",
+  "tag": "v1.0.2",
+  "notes": "Koppelen werkt nu: netwerk niet meer op de hoofdthread, duidelijkere foutmeldingen"
 }
