@@ -1,7 +1,7 @@
 {
-  "versionName": "1.0.3",
-  "versionCode": 5,
-  "apkUrl": "https://github.com/dahamsterbr/huisgeest-android-releases/releases/download/v1.0.3/huisgeest-android.apk",
-  "tag": "v1.0.3",
-  "notes": "Koppelen robuuster: app toont de echte foutmelding van de server, betere afhandeling bij koppelen"
+  "versionName": "1.0.4",
+  "versionCode": 6,
+  "apkUrl": "https://github.com/dahamsterbr/huisgeest-android-releases/releases/download/v1.0.4/huisgeest-android.apk",
+  "tag": "v1.0.4",
+  "notes": "Publieke API dicht via Pangolin; koppelen en foto's alleen op het thuisnetwerk; token in de Android Keystore; verbindingsscherm test publieke en LAN-route."
 }
