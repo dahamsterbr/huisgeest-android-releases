@@ -1,7 +1,8 @@
 {
-  "versionName": "1.0.4",
-  "versionCode": 6,
-  "apkUrl": "https://github.com/dahamsterbr/huisgeest-android-releases/releases/download/v1.0.4/huisgeest-android.apk",
-  "tag": "v1.0.4",
-  "notes": "Publieke API dicht via Pangolin; koppelen en foto's alleen op het thuisnetwerk; token in de Android Keystore; verbindingsscherm test publieke en LAN-route."
+  "versionName": "1.0.5",
+  "versionCode": 7,
+  "apkUrl": "https://github.com/dahamsterbr/huisgeest-android-releases/releases/download/v1.0.5/huisgeest-android.apk",
+  "tag": "v1.0.5",
+  "sha256": "5159a2368792bbc83af57fc60f582c414635c1f7641f549d708d6235a2519737",
+  "notes": "Verbindingstest gerepareerd (DNS op achtergrond, LAN-route overgeslagen buiten thuis-wifi); updates worden in de app gedownload, met sha256 gecontroleerd en geïnstalleerd."
 }
